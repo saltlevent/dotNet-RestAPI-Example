@@ -1,0 +1,15 @@
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\bin\Debug\net6.0\dotNet RestAPI Example.exe
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\bin\Debug\net6.0\dotNet RestAPI Example.deps.json
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\bin\Debug\net6.0\dotNet RestAPI Example.runtimeconfig.json
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\bin\Debug\net6.0\dotNet RestAPI Example.dll
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\bin\Debug\net6.0\ref\dotNet RestAPI Example.dll
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\bin\Debug\net6.0\dotNet RestAPI Example.pdb
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.csproj.AssemblyReference.cache
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.AssemblyInfoInputs.cache
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.AssemblyInfo.cs
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.csproj.CoreCompileInputs.cache
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.dll
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\ref\dotNet RestAPI Example.dll
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.pdb
+C:\Users\saltl\Documents\dotNet\dotNet RestAPI Example\obj\Debug\net6.0\dotNet RestAPI Example.genruntimeconfig.cache
