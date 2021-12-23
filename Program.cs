@@ -24,12 +24,6 @@ namespace RestAPIExample
             var msg = await stringTask;
             var user = SerializationJson.fromJsonList<User>(msg);
 
-
-            var post = new Post(101, 1, "BAŞLIK", "İÇERİK");
-
-            var json = SerializationJson.toJson(post);
-            var cont = new StringContent(json, Encoding.UTF8, "application/json");
-
             foreach (var item in user)
             {
                 Console.Write($"name: {item.name}\n"
@@ -37,8 +31,13 @@ namespace RestAPIExample
                 + $"mail: {item.email}\n"
                 + $"street: {item.address.street} suite:{item.address.suite}\n\n");
             }
-
+            
             //* the object converting to json and with "http POST" it posting and getting response
+            var post = new Post(101, 1, "BAŞLIK", "İÇERİK");
+
+            var json = SerializationJson.toJson(post);
+            var cont = new StringContent(json, Encoding.UTF8, "application/json");
+
             var response = client.PostAsync("https://jsonplaceholder.typicode.com/posts", cont);
             var responseObject = await response.Result.Content.ReadAsStringAsync();
 
